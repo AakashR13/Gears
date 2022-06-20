@@ -1,0 +1,6 @@
+[submodule "Gears/vendor/spdlog"]
+	path = Gears/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Gears/vendor/GLFW"]
+	path = Gears/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
